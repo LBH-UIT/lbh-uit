@@ -1,4 +1,4 @@
-## Hi there 👋
+## Selamat Datang di LBH-UIT 👋
 
 <!--
 **LBH-UIT/lbh-uit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
